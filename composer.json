@@ -1,0 +1,16 @@
+{
+    "name": "certificate-transparency/logger",
+    "description": "test composer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "arjun sharma",
+            "email": "arjuniet.28@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+    "psr-4": {"nbackiet\\HelloWorld\\": "src/"}
+    },
+    "require": {}
+}
